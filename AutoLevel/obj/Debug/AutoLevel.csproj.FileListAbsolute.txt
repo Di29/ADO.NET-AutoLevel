@@ -1,0 +1,7 @@
+C:\Users\УринбасаровД\source\repos\AutoLevel\AutoLevel\bin\Debug\AutoLevel.exe.config
+C:\Users\УринбасаровД\source\repos\AutoLevel\AutoLevel\bin\Debug\AutoLevel.exe
+C:\Users\УринбасаровД\source\repos\AutoLevel\AutoLevel\bin\Debug\AutoLevel.pdb
+C:\Users\УринбасаровД\source\repos\AutoLevel\AutoLevel\obj\Debug\AutoLevel.csprojAssemblyReference.cache
+C:\Users\УринбасаровД\source\repos\AutoLevel\AutoLevel\obj\Debug\AutoLevel.csproj.CoreCompileInputs.cache
+C:\Users\УринбасаровД\source\repos\AutoLevel\AutoLevel\obj\Debug\AutoLevel.exe
+C:\Users\УринбасаровД\source\repos\AutoLevel\AutoLevel\obj\Debug\AutoLevel.pdb
